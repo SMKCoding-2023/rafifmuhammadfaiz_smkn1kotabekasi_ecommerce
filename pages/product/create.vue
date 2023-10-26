@@ -1,3 +1,3 @@
 <template>
-    <h1>ini halamn create product</h1>
+    <h1>ini halamn create produk</h1>
 </template>
