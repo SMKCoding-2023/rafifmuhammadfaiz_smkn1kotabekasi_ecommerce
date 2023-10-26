@@ -10,12 +10,12 @@ export const products = [
     },
     {
       id: 2,
-      name: "Casual Long Sleeve Plaid Shirt - jiu hong / XXL(65-70KG)",
+      name: "Air Max Man( US 40-44 )",
       category: "Sepatu",
       price: 30,
-      image: "/images/products/sepatu-2.png",
+      image: "/images/products/airmax.png",
       isCart: false,
-      description: "Regular fit Denim design Classic collar Long buttoned sleeve Patch pocket on the chest Button up The model is 187 cm tall and is wearing a size M",
+      description: "Nike Air is our iconic innovation that uses pressurized air in a durable, flexible membrane to provide lightweight cushioning. The air compresses on impact and then immediately returns to its original shape and volume, ready for the next impact.",
     },
     {
       id: 3,
@@ -43,5 +43,25 @@ export const products = [
       image: "/images/products/baju-5.png",
       isCart: false,
       description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    },
+    {
+      id: 6,
+      name: "Converse Chuck Taylor (CM 26-28.5)",
+      category: "Sepatu",
+      price: 15,
+      image: "/images/products/converse.png",
+      isCart: false,
+      description: "The high-top silhouette was composed of a rubber sole and canvas upper, with a cushioned insole, arch and heel support as well as its now-iconic diamond tread pattern, designed for increased traction.",
+    },
+    {
+      id: 7,
+      name: " Patek Philippe Perpetual Calendar Chronograph 5270P-001",
+      category: "Jam",
+      price: 200,
+      image: "/images/products/patekfilipe.png",
+      isCart: false,
+      description: "The Perpetual Calendar Chronograph is the nadir of complicated watchmaking at Patek Philippe. This model is the first Perpetual Calendar Chronograph to feature a platinum case, which pairs exceedingly well with a salmon dial. Those with an interest in Patek Philippe watches will understand that platinum models are usually more coveted than their gold counterparts, and the 5270P-001 is no exception.",
     }
+
+
   ];
